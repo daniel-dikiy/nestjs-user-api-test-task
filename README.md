@@ -1,4 +1,4 @@
-<h1>User API mit NestJS Testaufgabe</h1>
+<h1>Testaufgabe User API mit NestJS</h1>
 
 <h2>Projektbeschreibung</h2>
 
